@@ -5,8 +5,14 @@
   height: 100vh;
 }
 
+#about {
+  height: 75vh;
+}
+
 #contact_form {
   background-image: url(images/contact-form.png);
   background-color: #6070ff;
-  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 75vh;
 }
