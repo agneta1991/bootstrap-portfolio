@@ -5,8 +5,9 @@
   height: 100vh;
 }
 
-#about {
+#about_me {
   height: 75vh;
+  background-color: #fff;
 }
 
 #contact_form {
@@ -15,4 +16,8 @@
   background-repeat: no-repeat;
   background-position: center;
   height: 75vh;
+}
+
+#work {
+  background-color: #E5E5E5;;
 }
