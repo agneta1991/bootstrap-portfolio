@@ -1,3 +1,7 @@
-.body {
-  
+#header {
+  background-image: url(images/header.png);
+}
+
+#contact_form {
+  background-image: url(images/contact-form.png);
 }
