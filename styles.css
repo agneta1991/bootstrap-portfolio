@@ -8,6 +8,7 @@
   background-image: url(images/header.png);
   background-repeat: no-repeat;
   background-position: contain;
+  padding-top: 200px;
 }
 
 #main h1 {
@@ -75,4 +76,8 @@
     margin-top: 1000px;
     width: auto;
     height: 400px;
+}
+
+.form1{
+  padding-top: 100px;
 }
